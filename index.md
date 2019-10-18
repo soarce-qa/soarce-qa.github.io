@@ -31,3 +31,22 @@ you will also be able to see callers and callees for each function and the frequ
 * SOARCE is also able to not only track **HTTP requests** but draw a **sequence diagram** for all
 subsequent calls within the topmost/main one.
 
+## Screenshots
+
+
+
+
+## Requirements
+
+### Application / Server
+* Docker
+* Docker-Compose
+* Composer
+
+### Plugin / Client
+* Services and applications should ideally also run within Docker containers...
+* ...and be orchestrated by docker-compose
+* Inside the containers, the only requirement is xdebug, apart from the rather ubiquitous ext_json.
+* the plugin has to be required as a dev-requirement via composer and the composer autoloader should
+  be used throughout the application.
+
