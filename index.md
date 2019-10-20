@@ -26,8 +26,8 @@ filters to make searching easy and also reduce noise:
 * **Code Coverage** will be stored with a granularity of "request within a use case". This means
 that you can look at the coverage of an individual request (or any number), of a usecase (or many)
 or the whole test suite.
-* The same is valid for **function calls**. You cen look at all of them or filter them down. For functions
-you will also be able to see callers and callees for each function and the frequency.
+* The same is valid for **function calls**. You cen look at all of them or filter them down. For
+functions you will also be able to see callers and callees for each function and the frequency.
 * SOARCE is also able to not only track **HTTP requests** but draw a **sequence diagram** for all
 subsequent calls within the topmost/main one.
 
