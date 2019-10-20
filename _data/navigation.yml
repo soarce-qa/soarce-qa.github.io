@@ -1,0 +1,11 @@
+main:
+    - title: Introduction
+      url: introduction.html
+    - title: Overview
+      url: overview.html
+    - title: Application
+      url: application.html
+    - title: Plugin
+      url: plugin.html
+    - title: Credits
+      url: credits.html

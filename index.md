@@ -44,9 +44,7 @@ subsequent calls within the topmost/main one.
 * Composer
 
 ### Plugin / Client
-* Services and applications should ideally also run within Docker containers...
-* ...and be orchestrated by docker-compose
-* Inside the containers, the only requirement is xdebug, apart from the rather ubiquitous ext_json.
-* the plugin has to be required as a dev-requirement via composer and the composer autoloader should
-  be used throughout the application.
-
+* PHP >= 5.3.9
+* xdebug
+* a linux vm or docker container for the application
+* composer autoloader for the automatic mode to work
