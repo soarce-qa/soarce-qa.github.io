@@ -1,33 +1,25 @@
 # Credits
 ## Maintainers
-                <ul>
-                    <li><a href="https://www.segnitz.net/">Holger Segnitz</a>
-                        <ul>
-                            <li><a href="https://github.com/soarce-qa">GitHub</a></li>
-                            <li><a href="https://packagist.org/packages/soarce/">Packagist</a></li>
-                        </ul>
-                    </li>
-                </ul>
+
+* [Holger Segnitz](https://www.segnitz.net/)
+  * [GitHub](https://github.com/soarce-qa)
+  * [Packagist](https://packagist.org/packages/soarce/)
 
 ## Contributors
-                <ul>
-                    <li><a href="https://www.segnitz.net/">Holger Segnitz</a>: Lead Developer of Application and PHP Plugin</li>
-                </ul>
+* [Holger Segnitz](https://www.segnitz.net/): Lead Developer of Application and PHP
+  Plugin</li>
 
 
 ## OpenSource Credits
-                <p>This software makes use of other great OpenSource Software, in particular:</p>
+This software makes use of other great OpenSource Software, in particular:
 
-                <ul>
-                    <li><a href="https://adminlte.io/">AdminLTE</a>: Template by Almsaeed Studio</li>
-                    <li><a href="https://mermaidjs.github.io/">Mermaid</a></li>
-                    <li><a href="https://docker.com/">Docker</a> and Docker-Compose</li>
-                    <li><a href="https://php.net/">PHP</a></li>
-                    <li><a href="https://xdebug.org/">Xdebug</a></li>
-                    <li><a href="https://mysql.org/">MySQL</a></li>
-                    <li><a href="https://nginx.org/">NginX</a></li>
-                    <li><a href="https://redis.io/">Redis</a></li>
-                    <li><a href="https://slimframework.com/">Slim Framework</a></li>
-                </ul>
-
-
+* [AdminLTE](https://adminlte.io/): Template by Almsaeed Studio
+* [Mermaid](https://mermaidjs.github.io/)
+* [Docker](https://docker.com/) and Docker-Compose
+* [PHP](https://php.net/)
+* [Xdebug](https://xdebug.org/)
+* [MySQL](https://mysql.org/)
+* [NginX](https://nginx.org/)
+* [Redis](https://redis.io/)
+* [Slim Framework](https://slimframework.com/)
+* [Jekyll](https://jekyllrb.com/)
