@@ -33,8 +33,12 @@ subsequent calls within the topmost/main one.
 
 ## Screenshots
 
+<a data-fancybox="gallery" href="assets/images/screenshot-home.png"><img src="assets/images/screenshot-home.png" width="157"></a>
+<a data-fancybox="gallery" href="assets/images/screenshot-coverage-analysis.png"><img src="assets/images/screenshot-coverage-analysis.png" width="157"></a>
+<a data-fancybox="gallery" href="assets/images/screenshot-sequence-diagram.png"><img src="assets/images/screenshot-sequence-diagram.png" width="157"></a>
+<a data-fancybox="gallery" href="assets/images/screenshot-control-services.png"><img src="assets/images/screenshot-control-services.png" width="157"></a>
 
-
+[more screenshots...](screenshots.html)
 
 ## Requirements
 
